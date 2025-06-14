@@ -12,15 +12,15 @@ File handling — Reading from and writing to text files
 
 📁 Files
 File Name	Purpose
-input.txt	Input file with random text and emails
-emails.txt	Output file containing extracted emails
-extract_emails.py	Python script to automate the task
+-input.txt:	Input file with random text and emails
+-emails.txt:	Output file containing extracted emails
+-extract_emails.py:	Python script to automate the task
 
 ▶️ How It Works
 The script reads the contents of input.txt.
 
-It uses a regex pattern to find all valid email addresses.
+-It uses a regex pattern to find all valid email addresses.
 
-It removes duplicate emails and sorts them.
+-It removes duplicate emails and sorts them.
 
-It writes the clean list to emails.txt.# CodeAlpha_Task-Automation-with-Python-Scripts
+-It writes the clean list to emails.txt.
