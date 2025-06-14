@@ -1,6 +1,5 @@
 Email Extractor using Python
 
-
 ✅ Objective
 Automate the task of extracting all email addresses from a .txt file and saving them into another file.
 
